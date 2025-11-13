@@ -3,10 +3,7 @@
   
   <div>
     <img src="download.jpeg" alt="Niharikaa Singh" width="160" style="border-radius: 10px;" />
-  </div>
-
-  
-  <div>
+ <p align="right">
     <h1>Hi 👋, I'm Niharikaa Singh</h1>
     <h3>💻 Passionate Web Developer from India</h3>
     <p>
@@ -15,6 +12,7 @@
       💬 Ask me about <b>HTML, CSS, JavaScript, React, MySQL</b><br>
       📫 How to reach me: <a href="mailto:imnsingh23@gmail.com">imnsingh23@gmail.com</a>
     </p>
+  </div>
     <p>
       🌐 Connect with me: <br>
       <a href="https://www.linkedin.com/in/niharikaa21" target="_blank">
@@ -45,7 +43,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiharikaaSingh21&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharikaaSingh21&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharikaaSingh21&layout=compact&theme=radical" height="160" />
 
   <!-- Total Commits & General Stats -->
