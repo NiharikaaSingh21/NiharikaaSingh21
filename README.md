@@ -1,16 +1,20 @@
-
-<h1 align="center">Hi 👋, I'm Niharikaa Singh</h1>
-<img src="download.jpeg" height="160" /> 
-
-<h3 align="center">💻 Passionate Web Developer from India</h3>
-
-<p align="center">
-  🌱 I’m currently learning <b>Backend Development ( Python)</b><br>
-  🎯 Exploring <b>AI-integrated web apps</b><br>
-  💬 Ask me about <b>HTML, CSS, JavaScript, React, MySQL</b><br>
-  📫 How to reach me: <a href="mailto:imnsingh23@gmail.com">imnsingh23@gmail.com</a>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="download.jpg" alt="Niharikaa Singh" width="160" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <h1>Hi 👋, I'm Niharikaa Singh</h1>
+      <h3>💻 Passionate Web Developer from India</h3>
+      <p>
+        🌱 I’m currently learning <b>Backend Development (Python)</b><br>
+        🎯 Exploring <b>AI-integrated Web Apps</b><br>
+        💬 Ask me about <b>HTML, CSS, JavaScript, React, MySQL</b><br>
+        📫 How to reach me: <a href="mailto:imnsingh23@gmail.com">imnsingh23@gmail.com</a>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🌐 Connect with me:
