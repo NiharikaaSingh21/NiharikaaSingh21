@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Niharikaa Singh</h1>
-<img src="<img src="https://img.freepik.com/premium-photo/woman-coding-laptop-with-red-screen_1282444-143764.jpg" height="160" /> 
+<img src="<img src="" height="160" /> 
 
 <h3 align="center">💻 Passionate Web Developer from India</h3>
 
