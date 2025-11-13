@@ -47,7 +47,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharikaaSingh21&layout=compact&theme=radical" height="160" />
 
   <!-- Total Commits & General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NiharikaaSingh21&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiharikaaSingh21&show_icons=true&theme=radical" height="160" />
+
 
 </p>
 
