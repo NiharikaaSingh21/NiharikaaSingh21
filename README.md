@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="download.jpg" alt="Niharikaa Singh" width="160" />
+      <img src="download.jpeg" alt="Niharikaa Singh" width="160" />
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h1>Hi 👋, I'm Niharikaa Singh</h1>
