@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Niharikaa Singh</h1>
-<img src="download.jpdeg" height="160" /> 
+<img src="download.jpeg" height="160" /> 
 
 <h3 align="center">💻 Passionate Web Developer from India</h3>
 
